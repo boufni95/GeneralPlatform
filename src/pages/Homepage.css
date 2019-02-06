@@ -1,0 +1,12 @@
+
+.img{
+    
+    width:2000px;
+    height:1000px;
+    margin-left: calc(50% - 1000px);
+    
+}
+.bttRes.contained{
+    background-color:red;
+
+}
