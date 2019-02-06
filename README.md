@@ -12,4 +12,4 @@ For a business owner is possible to search for possible employee and contact him
 The employee can search for jobs and apply to them
 This is powered by a Firebase real time database.
 
-### The style is made with Material-UI but it is kust a placeholder
+### The style is made with Material-UI but it is just a placeholder
